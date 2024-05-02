@@ -23,7 +23,7 @@ To get started with EmoSynth, you'll need to set up your development environment
 ### Installation
 1. Clone the EmoSynth repository:
 ```bash
-git clone https://github.com/YourUsername/EmoSynth.git
+git clone https://github.com/hussainather/EmoSynth.git
 ```
 2. Install Python dependencies:
 ```bash
